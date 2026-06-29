@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/29457778/README.md)
 # sd-grayscale-output
 
 Stable Diffusion WebUI (AUTOMATIC1111 / Forge) の拡張機能です。
